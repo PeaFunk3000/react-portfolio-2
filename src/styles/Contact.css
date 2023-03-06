@@ -1,0 +1,31 @@
+.contactForm {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--fifth-color);
+    background-color: var(--first-color);
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.375rem;
+}
+
+.contactForm h1 {
+    font-size: 80px;
+}
+
+#name {
+
+}
+
+#email {
+
+}
+
+#message {
+    height: 250px;
+    width: calc(100vw - 300px);
+}

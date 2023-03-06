@@ -14,8 +14,3 @@
   flex-direction: column;
   background-color: var(--first-color);
 }
-
-body {
-padding: 0;
-margin: 0;
-}
