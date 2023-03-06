@@ -11,8 +11,8 @@
       "id": 1,
       "name": "Football Stats",
       "image": "/football-stats.jpg",
-      "languages": ["HTML", "CSS", "JavaScript"],
-      "github": "",
+      "languages": ["API", "Git Flow", "HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/PeaFunk3000/Football_stats",
       "url": ""
     },
     {
@@ -20,24 +20,24 @@
       "name": "Team Profile Generator",
       "image": "/team-generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
-      "github": "",
-      "url": ""
+      "github": "https://github.com/PeaFunk3000/team-profile-generator",
+      "url": null
     },
     {
       "id": 3,
       "name": "Daily Planner",
       "image": "/planner.jpg",
-      "languages": ["HTML", "CSS", "JavaScript"],
-      "github": "",
-      "url": ""
+      "languages": ["jQuer", "HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/PeaFunk3000/Daily-Planner-App/",
+      "url": "https://peafunk3000.github.io/Daily-Planner-App/"
     },
     {
       "id": 4,
-      "name": "JavaScript Quiz",
+      "name": "Illustration Gallery",
       "image": "/quiz.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
-      "github": "",
-      "url": ""
+      "github": "https://github.com/PeaFunk3000/illustration-gallery",
+      "url": "https://peafunk3000.github.io/illustration-gallery/"
     },
     {
       "id": 5,

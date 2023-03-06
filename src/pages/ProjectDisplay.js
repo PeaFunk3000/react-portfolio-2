@@ -5,7 +5,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faComputer } from "@fortawesome/free-solid-svg-icons";
 import "../styles/ProjectDisplay.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function ProjectDisplay() {
   const { id } = useParams();
