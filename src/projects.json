@@ -13,7 +13,7 @@
       "image": "/football-stats.jpg",
       "languages": ["API", "Git Flow", "HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/Football_stats",
-      "url": ""
+      "url": "https://lapworthaaron.github.io/Football_stats/"
     },
     {
       "id": 2,
@@ -44,8 +44,8 @@
       "name": "Password Generator",
       "image": "/pw_generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
-      "github": "",
-      "url": ""
+      "github": "https://github.com/PeaFunk3000/prompted-password-generator/",
+      "url": "https://peafunk3000.github.io/prompted-password-generator/"
     }
 ]
 

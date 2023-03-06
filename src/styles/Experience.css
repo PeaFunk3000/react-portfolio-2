@@ -1,3 +1,7 @@
 .date-fix {
     display: flex !important;
 }
+
+.experience {
+    color: var(--fifth-color);
+}
