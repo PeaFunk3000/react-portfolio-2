@@ -12,7 +12,7 @@ function Home() {
       <div className="about">
         <h2>Hi, My Name is Tom</h2>
         <div className="prompt"> 
-        <p>A Junior Front-End Developer!</p>
+        <p>A Junior Front-End Developer.</p>
         <img id="headshot" src={prof}></img>
         </div>
       </div>
