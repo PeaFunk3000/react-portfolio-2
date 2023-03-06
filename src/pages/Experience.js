@@ -3,7 +3,8 @@ import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timel
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGraduationCap, faBriefcase } from '@fortawesome/free-solid-svg-icons'
 import 'react-vertical-timeline-component/style.min.css';
-import '../styles/Experience.css'
+import '../styles/Experience.css';
+import CV from "../components/CV"
 
 function Experience() {
   return (
@@ -55,6 +56,8 @@ function Experience() {
       </VerticalTimelineElement>
       
     </VerticalTimeline>
+    <h1>My Curriculum Vitae</h1>
+    <CV/>
     </div>
   )
 }
