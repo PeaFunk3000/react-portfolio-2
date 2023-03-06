@@ -16,6 +16,11 @@
     background-color: var(--fifth-color);
     color: var(--first-color);
   }
+
+  #headshot {
+    height: 25vh;
+    border-radius: 150px;
+  }
   
   .about h2 {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -28,10 +33,12 @@
     width: 40%;
     font-size: 30px;
   }
+
   .prompt svg {
     font-size: 60px;
     margin: 5px;
     color: var(--first-color);
+    cursor: pointer;
   }
   
   .skills {
@@ -42,22 +49,43 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    text-align: center;
+    padding-bottom: 50px;
+  }
+
+  .skills .ol {
+    padding: 0 !important;
   }
   
   .skills h1 {
     color: var(--fifth-color);
   }
+
+  .skills h2 {
+    color: var(--fifth-color);
+  }
   
   .skills .list {
     list-style: none;
-    width: 60%;
   }
   
   .list span {
     font-size: 20px;
   }
+
+  .skillIcons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--fifth-color);
+  }
+
+  .skillIcons .svg {
+    margin: 20px;
+    font-size: 70px;
+  }
   
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 750px) {
     .about h2 {
       font-size: 40px;
     }
@@ -67,10 +95,7 @@
       font-size: 20px;
       width: 80%;
     }
-  
-    .skills {
-      text-align: center;
-    }
+
     .list {
       padding: 0;
     }
