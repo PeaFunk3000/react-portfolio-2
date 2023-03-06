@@ -1,6 +1,6 @@
 :root {
-  --first-color:#fcfcfb;
-  --second-color: #f7bea9;
+  --first-color:#f0f0f0;
+  --second-color: #fdbda5;
   --third-color:  #ef98a7;
   --fourth-color: #807094;
   --fifth-color: #604f71;
@@ -8,6 +8,11 @@
 
 .App {
   text-align: center;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--first-color);
 }
 
 body {
