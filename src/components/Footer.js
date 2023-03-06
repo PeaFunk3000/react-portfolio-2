@@ -4,16 +4,13 @@ import { faInstagram, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-
 import "../styles/Footer.css"
 
 
-
-
-
 export default function Footer() {
   return (
     <div className="footer">
         <div className="socialMedia">
-        <FontAwesomeIcon icon={faInstagram} size="10x"/>
-        <FontAwesomeIcon icon={faGithub} size="10x"/>
-        <FontAwesomeIcon icon={faLinkedin} size="10x"/>
+        <FontAwesomeIcon icon={faInstagram} />
+        <FontAwesomeIcon icon={faGithub} />
+        <FontAwesomeIcon icon={faLinkedin} />
         </div>
         <p>&copy; 2023 Tom Brine</p>
     </div>
