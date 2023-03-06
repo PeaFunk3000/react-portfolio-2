@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Weather Forecast",
+      "image": "/weather-dashboard.jpg",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "Football Stats",
+      "image": "/football-stats.jpg",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    },
+    {
+      "id": 3,
+      "name": "Team Profile Generator",
+      "image": "/team-generator.jpg",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    },
+    {
+      "id": 4,
+      "name": "Daily Planner",
+      "image": "/planner.jpg",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    },
+    {
+      "id": 5,
+      "name": "JavaScript Quiz",
+      "image": "/quiz.jpg",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    },
+    {
+      "id": 6,
+      "name": "Password Generator",
+      "image": "/pw_generator.jpg",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    }
+]
+
