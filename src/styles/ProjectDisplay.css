@@ -1,0 +1,46 @@
+.project {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .project h1 {
+    margin-top: 50px;
+    color: var(--fifth-color);
+    font-size: 35px;
+  }
+
+  .project h2 {
+    margin-top: 5px;
+    color: var(--fourth-color);
+  }
+  .project img {
+    width: 700px;
+    border-radius: 10px;
+  }
+  
+  .project p {
+    font-size: 40px;
+    color: var(--fifth-color);
+  }
+  
+  .project svg {
+    font-size: 60px;
+    color: var(--fourth-color);
+    margin-bottom: 50px;
+    cursor: pointer;
+  }
+
+  .deployment {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+  }
+
+  .languages {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }

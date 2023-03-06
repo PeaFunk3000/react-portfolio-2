@@ -29,6 +29,7 @@ function MyCV() {
 
   return (
     <div className="myCV">
+      <h1>My Curriculum Vitae</h1>
       <Document file={PDF} onLoadSuccess={onDocumentLoadSuccess}>
         <Page pageNumber={pageNumber} renderTextLayer={false} renderAnnotationLayer={false} />
       </Document>

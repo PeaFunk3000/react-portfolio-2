@@ -56,7 +56,6 @@ function Experience() {
       </VerticalTimelineElement>
       
     </VerticalTimeline>
-    <h1>My Curriculum Vitae</h1>
     <CV/>
     </div>
   )

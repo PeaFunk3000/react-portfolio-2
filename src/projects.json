@@ -1,44 +1,50 @@
 [
     {
-      "id": 1,
+      "id": 0,
       "name": "Weather Forecast",
       "image": "/weather-dashboard.jpg",
+      "languages": ["API","HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/PeaFunk3000/weather-dashboard",
+      "url": "https://peafunk3000.github.io/weather-dashboard/"
+    },
+    {
+      "id": 1,
+      "name": "Football Stats",
+      "image": "/football-stats.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
+      "github": "",
       "url": ""
     },
     {
       "id": 2,
-      "name": "Football Stats",
-      "image": "/football-stats.jpg",
+      "name": "Team Profile Generator",
+      "image": "/team-generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
+      "github": "",
       "url": ""
     },
     {
       "id": 3,
-      "name": "Team Profile Generator",
-      "image": "/team-generator.jpg",
+      "name": "Daily Planner",
+      "image": "/planner.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
+      "github": "",
       "url": ""
     },
     {
       "id": 4,
-      "name": "Daily Planner",
-      "image": "/planner.jpg",
+      "name": "JavaScript Quiz",
+      "image": "/quiz.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
+      "github": "",
       "url": ""
     },
     {
       "id": 5,
-      "name": "JavaScript Quiz",
-      "image": "/quiz.jpg",
-      "languages": ["HTML", "CSS", "JavaScript"],
-      "url": ""
-    },
-    {
-      "id": 6,
       "name": "Password Generator",
       "image": "/pw_generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
+      "github": "",
       "url": ""
     }
 ]

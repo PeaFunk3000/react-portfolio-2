@@ -10,7 +10,7 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2>Hi, My Name is Tom</h2>
+        <h2>Hi! My Name is Tom</h2>
         <div className="prompt"> 
         <p>A Junior Front-End Developer.</p>
         <img id="headshot" src={prof}></img>
