@@ -6,7 +6,7 @@ import "../styles/Home.css"
 
 
 
-function Home() {
+export default function Home() {
   return (
     <div className="home">
       <div className="about">
@@ -41,6 +41,4 @@ function Home() {
     </div>
     </div>
   )
-}
-
-export default Home
+};

@@ -3,7 +3,7 @@ import ProjectItem from '../components/ProjectItem';
 import projects from '../projects.json' 
 import "../styles/Projects.css"
 
-function Projects() {
+export default function Projects() {
   
   return (
     <div className='projectList'>
@@ -14,6 +14,4 @@ function Projects() {
         ))}
       </div>
   )
-}
-
-export default Projects 
+};

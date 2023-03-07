@@ -25,4 +25,4 @@ export default function ProjectDisplay() {
       </div>
     </div>
   );
-}
+};

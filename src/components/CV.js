@@ -6,7 +6,7 @@ import "../styles/MyCV.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 
-function MyCV() {
+export default function MyCV() {
   const [numPages, setNumPages] = useState(null);
   const [pageNumber, setPageNumber] = useState(1);
 
@@ -50,6 +50,4 @@ function MyCV() {
       </div>
     </div>
   );
-}
-
-export default MyCV;
+};

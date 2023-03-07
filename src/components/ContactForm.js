@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const ContactForm = () => {
+export default function ContactForm () {
   const [status, setStatus] = useState("Submit");
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -11,17 +11,23 @@ const ContactForm = () => {
       email: email.value,
       message: message.value,
     };
-    let response = await fetch("http://localhost:5000/contact", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json;charset=utf-8",
-      },
-      body: JSON.stringify(details),
-    });
-    setStatus("Submit");
-    let result = await response.json();
-    alert(result.status);
+
+// CODE FOR PORT 5000 NODE SERVER, IN GITIGNORE
+    // let response = await fetch("http://localhost:5000/contact", {
+    //   method: "POST",
+    //   headers: {
+    //     "Content-Type": "application/json;charset=utf-8",
+    //   },
+    //   body: JSON.stringify(details),
+    // });
+    // setStatus("Submit");
+    // let result = await response.json();
+    // alert(result.status);
+
+// MOCK RESPONSE FOR CHALLENGE SUBMISSION
+    alert("Thank you for your message")
   };
+
   return (
     <form className="formBody" onSubmit={handleSubmit}>
       <div>
@@ -40,5 +46,3 @@ const ContactForm = () => {
     </form>
   );
 };
-
-export default ContactForm;

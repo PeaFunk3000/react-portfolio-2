@@ -6,7 +6,7 @@ import 'react-vertical-timeline-component/style.min.css';
 import '../styles/Experience.css';
 import CV from "../components/CV"
 
-function Experience() {
+export default function Experience() {
   return (
     <div className="experience">
       <VerticalTimeline lineColor='#604f71'>
@@ -59,6 +59,4 @@ function Experience() {
     <CV/>
     </div>
   )
-}
-
-export default Experience
+};
