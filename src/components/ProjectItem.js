@@ -6,7 +6,7 @@ export default function ProjectItem({project}) {
 
   return (
     <div className="projectItem" onClick={() => {navigate(`/project/${project.id}`)}}>
-      <div style={{backgroundImage: `url(${project.image})`}} className="bgImage"/>
+      <div style={{backgroundImage: `url(${process.env.PUBLIC_URL + project.image})`}} className="bgImage"/>
       <h1 className="projectTitle">{project.name}</h1>
     </div>
   );

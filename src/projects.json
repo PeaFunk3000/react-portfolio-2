@@ -2,7 +2,7 @@
     {
       "id": 0,
       "name": "Weather Forecast",
-      "image": "/weather-dashboard.jpg",
+      "image": "/images/weather-dashboard.jpg",
       "languages": ["API","HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/weather-dashboard",
       "url": "https://peafunk3000.github.io/weather-dashboard/"
@@ -10,7 +10,7 @@
     {
       "id": 1,
       "name": "Football Stats",
-      "image": "/football-stats.jpg",
+      "image": "/images/football-stats.jpg",
       "languages": ["API", "Git Flow", "HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/Football_stats",
       "url": "https://lapworthaaron.github.io/Football_stats/"
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "Team Profile Generator",
-      "image": "/team-generator.jpg",
+      "image": "/images/team-generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/team-profile-generator",
       "url": null
@@ -26,7 +26,7 @@
     {
       "id": 3,
       "name": "Daily Planner",
-      "image": "/planner.jpg",
+      "image": "/images/planner.jpg",
       "languages": ["jQuer", "HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/Daily-Planner-App/",
       "url": "https://peafunk3000.github.io/Daily-Planner-App/"
@@ -34,7 +34,7 @@
     {
       "id": 4,
       "name": "Illustration Gallery",
-      "image": "/quiz.jpg",
+      "image": "/images/quiz.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/illustration-gallery",
       "url": "https://peafunk3000.github.io/illustration-gallery/"
@@ -42,7 +42,7 @@
     {
       "id": 5,
       "name": "Password Generator",
-      "image": "/pw_generator.jpg",
+      "image": "/images/pw_generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/prompted-password-generator/",
       "url": "https://peafunk3000.github.io/prompted-password-generator/"

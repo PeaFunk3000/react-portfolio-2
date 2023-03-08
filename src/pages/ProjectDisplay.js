@@ -12,7 +12,7 @@ export default function ProjectDisplay() {
   return (
     <div className="project">
       <h1>{project.name}</h1>
-      <img className="img-fluid" src={project.image}></img>
+      <img className="img-fluid" src={process.env.PUBLIC_URL + project.image}></img>
       <h1>Skills</h1>
       <div className="languages">
         {project.languages.map((item) => (
