@@ -21,7 +21,7 @@ export default function ProjectDisplay() {
       <h1>Links</h1>
       <div className="deployment">
       <a href={project.github} target="_blank"><FontAwesomeIcon icon={faGithub} /></a>
-      <a href={project.url} target="_blank"><FontAwesomeIcon icon={faComputer} /></a>
+      {project.url && <a href={project.url} target="_blank"><FontAwesomeIcon icon={faComputer} /></a>}
       </div>
     </div>
   );

@@ -21,7 +21,7 @@
       "image": "/images/team-generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/team-profile-generator",
-      "url": null
+      "url": false
     },
     {
       "id": 3,
