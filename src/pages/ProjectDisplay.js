@@ -9,6 +9,7 @@ import "../styles/ProjectDisplay.css";
 export default function ProjectDisplay() {
   const { id } = useParams();
   const project = projects[id];
+  
   return (
     <div className="project">
       <h1>{project.name}</h1>
