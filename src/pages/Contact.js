@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <div className='contactForm'>
       <h1>Let's Talk</h1>
-      <ContactForm></ContactForm>
+      <ContactForm/>
     </div>
   )
 }

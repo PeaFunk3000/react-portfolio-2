@@ -1,6 +1,14 @@
 [
+  {
+    "id": 0,
+    "name": "Pokemon Data",
+    "image": "/images/pokemon-app.jpg",
+    "languages": ["API","HTML","CSS", "JavaScript", "React"],
+    "github": "https://github.com/PeaFunk3000/pokemon-pocket-monsters",
+    "url": "https://pokestop.netlify.app/#/"
+  },
     {
-      "id": 0,
+      "id": 1,
       "name": "Weather Forecast",
       "image": "/images/weather-dashboard.jpg",
       "languages": ["API","HTML", "CSS", "JavaScript"],
@@ -8,7 +16,7 @@
       "url": "https://peafunk3000.github.io/weather-dashboard/"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Football Stats",
       "image": "/images/football-stats.jpg",
       "languages": ["API", "Git Flow", "HTML", "CSS", "JavaScript"],
@@ -16,7 +24,7 @@
       "url": "https://lapworthaaron.github.io/Football_stats/"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Team Profile Generator",
       "image": "/images/team-generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
@@ -24,7 +32,7 @@
       "url": false
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Daily Planner",
       "image": "/images/planner.jpg",
       "languages": ["jQuer", "HTML", "CSS", "JavaScript"],
@@ -32,7 +40,7 @@
       "url": "https://peafunk3000.github.io/Daily-Planner-App/"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Illustration Gallery",
       "image": "/images/quiz.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
@@ -40,12 +48,30 @@
       "url": "https://peafunk3000.github.io/illustration-gallery/"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Password Generator",
       "image": "/images/pw_generator.jpg",
       "languages": ["HTML", "CSS", "JavaScript"],
       "github": "https://github.com/PeaFunk3000/prompted-password-generator/",
       "url": "https://peafunk3000.github.io/prompted-password-generator/"
+    },
+    {
+      "id": 7,
+      "name": "Bootstrap Portfolio Prototype",
+      "image": "/images/bootstrap-portfolio.jpg",
+      "languages": ["Bootstrap", "HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/PeaFunk3000/Bootstrap-Portfolio",
+      "url": "https://peafunk3000.github.io/Bootstrap-Portfolio/"
+    },
+    {
+      "id": 8,
+      "name": "Browser JavaScript Quiz",
+      "image": "/images/javascript-quiz.jpg",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/PeaFunk3000/JavaScript-browser-quiz/",
+      "url": "https://peafunk3000.github.io/JavaScript-browser-quiz/"
     }
 ]
+
+
 
