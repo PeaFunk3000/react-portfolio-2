@@ -31,8 +31,8 @@ This project is an initial scaffolding for my first portfolio site, created in R
     - Link to the GitHub repository
     - GIF or screenshot of the deployed application
 
-Website: https://lapworthaaron.github.io/react_portfolio
-<br>Repository: https://github.com/LapworthAaron/react_portfolio
+Website: https://peafunk3000.github.io/react-portfolio-2/
+<br>Repository: https://github.com/PeaFunk3000/react-portfolio-2/
 
 In this project I have learnt how to use React.js to make a basic web application.
 
